@@ -1,4 +1,4 @@
-![_ae35261e-07d0-4e4b-b321-03dc0d67cccd](https://github.com/LTL-Team/lemon-backend/assets/65227354/760bccf4-7984-46fb-b46a-3100d086eeb7)# lemon-backend
+# lemon-backend
 Backend Of Lemon Novel
 
 ## Lemon Novel
